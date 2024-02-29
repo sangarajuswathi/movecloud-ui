@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/free/static/css/main.df3b6d63.css",
+    "main.js": "/free/static/js/main.05e0c1b3.js",
+    "static/js/613.869cc3aa.chunk.js": "/free/static/js/613.869cc3aa.chunk.js",
+    "static/js/854.231931d6.chunk.js": "/free/static/js/854.231931d6.chunk.js",
+    "static/js/548.c11fa55e.chunk.js": "/free/static/js/548.c11fa55e.chunk.js",
+    "static/js/611.53dc5401.chunk.js": "/free/static/js/611.53dc5401.chunk.js",
+    "static/js/334.dd42f655.chunk.js": "/free/static/js/334.dd42f655.chunk.js",
+    "static/js/227.75848beb.chunk.js": "/free/static/js/227.75848beb.chunk.js",
+    "static/js/133.e2fa33c5.chunk.js": "/free/static/js/133.e2fa33c5.chunk.js",
+    "static/js/746.f6d79636.chunk.js": "/free/static/js/746.f6d79636.chunk.js",
+    "static/js/979.6a306e01.chunk.js": "/free/static/js/979.6a306e01.chunk.js",
+    "static/js/143.00435f46.chunk.js": "/free/static/js/143.00435f46.chunk.js",
+    "static/js/23.98f92925.chunk.js": "/free/static/js/23.98f92925.chunk.js",
+    "static/media/user-round.svg": "/free/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "index.html": "/free/index.html",
+    "static/media/social-google.svg": "/free/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
+    "static/media/earning.svg": "/free/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg"
+  },
+  "entrypoints": [
+    "static/css/main.df3b6d63.css",
+    "static/js/main.05e0c1b3.js"
+  ]
+}
